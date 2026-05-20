@@ -1,0 +1,17 @@
+{
+  "name": "Mico Pro - Live Social",
+  "short_name": "Mico Pro",
+  "description": "High-fidelity social live streaming and voice chat room application.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0C29",
+  "theme_color": "#0F0C29",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3661/3661557.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

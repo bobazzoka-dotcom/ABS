@@ -1,0 +1,11 @@
+{
+  "name": "Mico Pro - Live Social",
+  "description": "A high-fidelity social live streaming and voice chat room application inspired by Mico Live.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
